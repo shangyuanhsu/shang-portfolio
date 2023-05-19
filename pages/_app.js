@@ -1,5 +1,15 @@
-import '@/styles/globals.css'
+import '../styles/globals.css'
+import Layuot from '../components/Layout';
+import ThemeContextProvider from "../contexts/ThemeContext"
 
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+function App({ Component, pageProps }) {
+  return (
+    <ThemeContextProvider>
+    <Layuot>
+      <Component {...pageProps} />
+    </Layuot>
+    </ThemeContextProvider>
+  );
 }
+
+export default App
