@@ -21,6 +21,8 @@ export default function Home({ locale, t }) {
       <Head>
         <meta name="description" content="shangyuan's homepage" />
         <meta name="author" content="shangyuan" />
+        <link rel="shortcut icon" href="/img/shang.ico" />
+        <link rel="bookmark" href="/img/shang.ico" />
         <title>Shang | Homepage</title>
       </Head>
       {/* <MySpline /> */}
@@ -32,7 +34,7 @@ export default function Home({ locale, t }) {
             <p>{t.shang.email}</p>
           </div>
           <div className={styles.myPhoto}>
-            <Image src="/img/shangPhoto.jpeg" width={120} height={120} alt="shang's photo" priority={true}/>
+            <Image src="/img/shangPhoto.jpeg" width={120} height={120} alt="shang's photo" priority={true} />
           </div>
         </section>
 

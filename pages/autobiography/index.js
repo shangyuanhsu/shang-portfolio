@@ -18,6 +18,8 @@ const Autobiography = ({ locale, t }) => {
             <Head>
                 <meta name="description" content="shangyuan's homepage" />
                 <meta name="author" content="shangyuan" />
+                <link rel="shortcut icon" href="/img/shang.ico" />
+                <link rel="bookmark" href="/img/shang.ico" />
                 <title>Shang | Bio</title>
             </Head>
             <div>

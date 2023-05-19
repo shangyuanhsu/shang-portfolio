@@ -22,6 +22,8 @@ const Projects = ({t}) => {
             <Head>
                 <meta name="description" content="shangyuan's homepage" />
                 <meta name="author" content="shangyuan" />
+                <link rel="shortcut icon" href="/img/shang.ico" />
+                <link rel="bookmark" href="/img/shang.ico" />
                 <title>Shang | Projects</title>
             </Head>
             <section className={styles.worksBox}>

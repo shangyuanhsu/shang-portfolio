@@ -33,6 +33,8 @@ const ProjectsItem = ({ t }) => {
             <Head>
                 <meta name="description" content="shangyuan's homepage" />
                 <meta name="author" content="shangyuan" />
+                <link rel="shortcut icon" href="/img/shang.ico" />
+                <link rel="bookmark" href="/img/shang.ico" />
                 <title>Shang | Projects</title>
             </Head>
             <div style={!hasProjectData ? { display: "none" } : { display: "block" }}>
