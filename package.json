@@ -1,5 +1,5 @@
 {
-  "name": "shang-portfolio2",
+  "name": "shang-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@splinetool/react-spline": "^2.2.6",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.3",
     "next": "13.4.3",

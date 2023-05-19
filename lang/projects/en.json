@@ -229,7 +229,24 @@
             "url": "https://okgocrm.vercel.app/",
             "imgArr": {
                 "title": "Featured",
-                "list": []
+                "list": [
+                    {
+                        "src": "okgocrm2.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "okgocrm3.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "okgocrm4.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "okgocrm5.png",
+                        "text": ""
+                    }
+                ]
             },
             "describe": "Creating a CRM website using Next.js (work in progress).",
             "allDescribe": {
