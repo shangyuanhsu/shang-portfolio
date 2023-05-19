@@ -1,0 +1,62 @@
+{
+  "nav":{
+    "autobiography":"自傳",
+    "project":"計畫",
+    "post":"筆記"
+  },
+  "shang": {
+    "name": "許尚媛 Hsu,Shang-Yuan",
+    "born": "1993 出生於臺灣",
+    "email": "hsushangyuan@gmail.com"
+  },
+  "introduce": {
+    "learningByDoing": {
+      "title": "學習 : ",
+      "text": "做中學，並且整理成自己的架構來提身自學能力"
+    },
+    "workingOn": {
+      "title": "工作中的我 : ",
+      "text": "選擇適當的方式做適當的事"
+    },
+    "teamwork": {
+      "title": "團體中的我 : ",
+      "text": "樂於討論並且給予回饋"
+    }
+  },
+  "skills": {
+    "title":"接觸過的技術",    
+    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / MySQL / Mongodb / Git"
+  },
+  "workExperience":{
+    "title":"工作經歷",
+    "list":[
+      {
+        "time":"2022 - 2023",
+        "title":"Cloudnifier Taiwan 前端工程師",
+        "description":"客製化 Dynamics CRM 以及客製化 CRM ，並且串接 api 或是 Dynamics CRM 中 Odata 的資料"
+      },
+      {
+        "time":"2020 - present",
+        "title":"Tibame 講師",
+        "description":"教學內容為 UI設計, HTML, CSS, JS"
+      },
+      {
+        "time":"2020 - 2021",
+        "title":"中央大學 程式設計師",
+        "description":"網站開發與維護，包括規劃資料庫、UIUX網頁設計、前端功能開發、後端資料整理"
+      },
+      {
+        "time":"2015 - present",
+        "title":"自由接案",
+        "description":"網站製作, UIUX網頁設計, Logo設計, 插畫"
+      }
+    ]
+  },
+  "education":{
+    "title":"教育背景",
+    "list":[
+      "國立臺南藝術大學 造形藝術研究所 碩士",
+      "國立臺北藝術大學 美術學系 學士"
+    ]
+  }
+}

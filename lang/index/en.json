@@ -1,0 +1,63 @@
+{
+  "nav":{
+    "autobiography":"Bio",
+    "project":"Project",
+    "post":"Post"
+  },
+  "shang": {
+    "name": "Hsu,Shang-Yuan",
+    "born": "1993 Born in Taiwan",
+    "email": "hsushangyuan@gmail.com"
+  },
+  "introduce": {
+    "learningByDoing": {
+      "title": "Learning by doing : ",
+      "text": "Develop own structure to grow my self learning skill"
+    },
+    "workingOn": {
+      "title": "Working on : ",
+      "text": "Explore the appropriate procedure of work"
+    },
+    "teamwork": {
+      "title": "Teamwork : ",
+      "text": "Good at communicating & Engage in the conversation"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / MySQL / Mongodb / Git"
+  },
+  "workExperience":{
+    "title":"Work Experience",
+    "list":[
+      {
+        "time":"2022 - 2023",
+        "title":"Cloudnifier Taiwan Front-end Engineer",
+        "description":"CRM Customized page program development and maintenance"
+      },
+      {
+        "time":"2020 - present",
+        "title":"Tibame Speaker",
+        "description":"Teaching UI design, HTML, CSS, JS"
+      },
+      {
+        "time":"2020 - 2021",
+        "title":"Network Learning Technology, NCU Software Engineer",
+        "description":"Develop and maintain websites, including planning database, website vision, front-end function development, and back-end data organization"
+      },
+      {
+        "time":"2015 - present",
+        "title":"Freelancer",
+        "description":"Website Design, UIUX Design, Logo Design, Illustration"
+      }
+    ]
+
+  },
+  "education":{
+    "title":"Education",
+    "list":[
+      "Master's deegree, Plastic arts, Tainan National University of the Arts",
+      "Bachelor's degree, Fine Arts, Taipei National University of the Arts"
+    ]
+  }
+}

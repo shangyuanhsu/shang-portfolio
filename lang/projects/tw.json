@@ -1,0 +1,460 @@
+{
+    "list": {
+        "Cloudnifier": {
+            "id": "9",
+            "param": "Cloudnifier",
+            "title": "Cloudnifier TW",
+            "image": "ct1.png",
+            "url": "",
+            "imgArr": {
+                "title": "精選",
+                "list": [
+                    {
+                        "src": "ccg.png",
+                        "text": "CCG客製CRM"
+                    },
+                    {
+                        "src": "ct2.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "ct3.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "ct8.png",
+                        "text": "在既定的Dynamics CRM架構下，鑲嵌html檔或js檔進去，並搭配Dynamics365 JS語法去正確顯示資料與畫面"
+                    },
+                    {
+                        "src": "ct7.png",
+                        "text": "選擇會員或是電話號碼，填寫完會自動帶入會員資料，就可以列印抽獎券給會員了"
+                    },
+                    {
+                        "src": "ct6.png",
+                        "text": "使用vue來客製化客戶想要的操作方式與畫面製CRM"
+                    },
+                    {
+                        "src": "ct5.jpg",
+                        "text": "開發前的設計與確認需求也在工作的範疇裡"
+                    },
+                    {
+                        "src": "ct4.JPG",
+                        "text": "結案時，做文件"
+                    }
+                ]
+            },
+            "describe": "客製化Dynamics CRM以及客製化CRM並且串接api或是Dynamics CRM中Odata的資料。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "公司針對製造、零售 、金融與非營利組織等企業機構 ，提供微軟Dvnamics CRM系統整合，企業軟體顧問服務，我有參與到的專案有漢神、Yata 、FET遠傳、華懋集團。在公司，我主要是負責前端的工作，內容為客製化Dynamics CRM以及客製化CRM並且串接api或是Dynamics CRM中Odata的資料。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "Vue.js",
+                        "Vuex",
+                        "Pinia",
+                        "Vite",
+                        "Typescript",
+                        "Sass",
+                        "Vue-i18n",
+                        "element-ui",
+                        "OAuth2.0",
+                        "dynamics365 JS",
+                        "Azure DevOps Git"
+                    ]
+                }
+            }
+        },
+        "Ccg": {
+            "id": "8",
+            "param": "Ccg",
+            "title": "華懋集團 CRM",
+            "image": "ccg.png",
+            "url": "",
+            "imgArr": {
+                "title": "精選",
+                "list": [
+                    {
+                        "src": "ccg1.png",
+                        "text": "透過vue-i18n來做中英切換"
+                    },
+                    {
+                        "src": "ccg2.png",
+                        "text": "使用套件html5-qrcode來製作掃qrcode讀取會員編號"
+                    },
+                    {
+                        "src": "ccg3.png",
+                        "text": "使用naigator.mediaDevices來開啟鏡頭，然後搭配canvas來擷取畫面"
+                    },
+                    {
+                        "src": "ccg4.png",
+                        "text": "除了分工不同元件之外，也能適當的使用或擴充他人建立好的共用元素"
+                    },
+                    {
+                        "src": "ccg5.png",
+                        "text": "創建共用元素，並且考慮到不同變化的table"
+                    },
+                    {
+                        "src": "ccg6.png",
+                        "text": "可以動態新增一行，並且新增裡面的資料"
+                    }
+                ]
+            },
+            "describe": "使用Vite建立Vue.js+Typescript的CRM專案，並且使用sass來建構畫面。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "此專案為香港華懋集團客製化CRM，提供不同權限的管理員掌握會員、點數、優惠、活動的資料。在專案中我和前端團隊透過Vite建立Vue.js+Typescript的CRM專案 以及使用sass來建構畫面，並且使用Azure DevOps Git做版本控制。專案中我除了與團隊一起分工不同的共用元件之外，也有嘗試使用naigator.mediaDevices來開啟鏡頭，然後搭配canvas來擷取畫面。還有使用套件html5-qrcode來製作掃qrcode讀取會員編號。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "Vue.js",
+                        "Vuex",
+                        "Pinia",
+                        "Vite",
+                        "Typescript",
+                        "Sass",
+                        "Vue-i18n",
+                        "element-ui",
+                        "OAuth2.0",
+                        "Azure DevOps Git"
+                    ]
+                }
+            }
+        },
+        "MathIsland": {
+            "id": "7",
+            "param": "MathIsland",
+            "title": "數學島",
+            "image": "mi1.png",
+            "url": "",
+            "imgArr": {
+                "title": "精選",
+                "list": [
+                    {
+                        "src": "mi2.png",
+                        "text": "每天會自動發送過去學生有做過的任務，以及一個他這個年級但沒有做過的題目。這裡也可以是老師針對該學生或該班級發送練習作業的地方"
+                    },
+                    {
+                        "src": "mi3.png",
+                        "text": "題目與作答之外，也會有教學與提示來幫助學生寫題，另外也有計算紙可以供給學生運算或是筆記，另外計算紙的筆記也會存擋起來，給老師做分析"
+                    },
+                    {
+                        "src": "mi4.png",
+                        "text": "學生也可以分享自己解題的方式，讓好友可以來留言跟評價教學的方式"
+                    },
+                    {
+                        "src": "mi5.png",
+                        "text": "學生可以用答題賺的錢錢，來買好看的船跟房子，我也要畫這些小東西"
+                    },
+                    {
+                        "src": "mi6.png",
+                        "text": "好友區"
+                    },
+                    {
+                        "src": "mi7.png",
+                        "text": "老師除了可以看到自己有帶班的學習狀況外，也可以單獨查看學生的學習進度"
+                    },
+                    {
+                        "src": "mi8.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "mi9.png",
+                        "text": "除了數學島上的學習之外，也可以搭配老師其他的教材，這邊是可以讓老師了解自己出的作業與學生的數學島上的學習進度"
+                    },
+                    {
+                        "src": "mi10.png",
+                        "text": "老師指派任務的地方"
+                    },
+                    {
+                        "src": "mi11.png",
+                        "text": "舉手發問是讓老師在班上，如果有學生需要排隊問問題的即時系統"
+                    },
+                    {
+                        "src": "mi12.png",
+                        "text": "老師完成一個同學之後就會自動換下一位同學"
+                    }
+                ]
+            },
+            "describe": "PHP為主的網站。學生可以在遊戲中學習數學，教師也可以通過這個平台掌握學生的學習進度。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "數學島是屬於中央大學陳德懷教授的「明日學校」計畫之一，主要是以電腦作為學生學習輔具，協助老師教學。數學島將數學概念以互動式遊戲形式呈現，並以課程地圖的方式引導學生進行自我進度學習。學生透過挑戰數學任務闖關，依自己的能力，規劃與經營自己的學習，進而提高學生的信心與興趣。教師可以透過學習歷程清楚掌握每位學生的學習狀況與進度，給予學生不同的建議與幫助，解決學生的學習困難。在此專案中，我會需要了解老師的需求或是研究生的實驗需求，再依照需求設計畫面、資料庫規劃，再來就是產出相對應的api，接著撰寫前端功能與串接api。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "PhotoShop",
+                        "llustrator",
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "HTML",
+                        "CSS",
+                        "JS",
+                        "PHP",
+                        "MySQL",
+                        "Git",
+                        "D3.js",
+                        "Sourcetree"
+                    ]
+                }
+            }
+        },
+        "Okgo": {
+            "id": "6",
+            "param": "Okgo",
+            "title": "OKGO CRM",
+            "image": "okgocrm1.png",
+            "url": "https://okgocrm.vercel.app/",
+            "imgArr": {
+                "title": "精選",
+                "list": []
+            },
+            "describe": "使用Next.js製作一個CRM的網站(正在進行中...)。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "使用Next.js製作一個CRM的網站，尚未完成。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "PhotoShop",
+                        "llustrator",
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "Next.js",
+                        "material-ui"
+                    ]
+                }
+            }
+        },
+        "Gridstack": {
+            "id": "5",
+            "param": "Gridstack",
+            "title": "Gridstack",
+            "image": "gridstack1.png",
+            "url": "https://shangyuanhsu.github.io/gridstack-vue3/dist/#/",
+            "imgArr": {
+                "title": "精選",
+                "list": []
+            },
+            "describe": "使用Vue.js搭配Gridstackjs製作的功能，可以添加圖表或表格或文本，並且可以拖動。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "使用Vue.js搭配Gridstackjs製作的功能，可以添加圖表或表格或文本，並且可以拖動。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "Vue.js",
+                        "gridstackjs"
+                    ]
+                }
+            }
+        },
+        "MooldCeramicStudio": {
+            "id": "4",
+            "param": "MooldCeramicStudio",
+            "title": "手の土",
+            "image": "MCS1.png",
+            "url": "",
+            "imgArr": {
+                "title": "精選",
+                "list": []
+            },
+            "describe": "網站規劃、設計，以及前端切版練習，主題為賣陶藝商品以及課程教學的網站。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "網站規劃、設計，以及前端切版練習，主題為賣陶藝商品以及課程教學的網站。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "PhotoShop",
+                        "llustrator",
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "HTML",
+                        "CSS",
+                        "JS",
+                        "JQ"
+                    ]
+                }
+            }
+        },
+        "ChatRoom": {
+            "id": "3",
+            "param": "ChatRoom",
+            "title": "聊天室",
+            "image": "chatroom1.png",
+            "url": "",
+            "imgArr": {
+                "title": "精選",
+                "list": []
+            },
+            "describe": "透過Vue.js、Socket.IO、Node.js、mongodb來製作簡易的聊天室。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "透過Vue.js、Socket.IO、Node.js、mongodb來製作簡易的聊天室。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "Vue.js",
+                        "Socket.IO",
+                        "Node.js",
+                        "mongodb"
+                    ]
+                }
+            }
+        },
+        "MemoryGame": {
+            "id": "2",
+            "param": "MemoryGame",
+            "title": "記憶卡牌",
+            "image": "MemoryGame1.jpeg",
+            "url": "https://shangyuanhsu.github.io/Card-Memory/build/index.html",
+            "imgArr": {
+                "title": "精選",
+                "list": []
+            },
+            "describe": "使用React.js製作翻牌遊戲。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "使用React.js製作翻牌遊戲。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "React.js"
+                    ]
+                }
+            }
+        },
+        "ToDoList": {
+            "id": "1",
+            "param": "ToDoList",
+            "title": "待辦事項",
+            "image": "todolist1.jpeg",
+            "url": "https://shangyuanhsu.github.io/todolistreact/build/index.html",
+            "imgArr": {
+                "title": "精選",
+                "list": []
+            },
+            "describe": "使用React.js製作，主要是練習'useContext'。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "使用React.js製作，主要是練習'useContext'。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "React.js"
+                    ]
+                }
+            }
+        },
+        "Idea": {
+            "id": "0",
+            "param": "Idea",
+            "title": "Ideas",
+            "image": "idea1.png",
+            "url": "https://github.com/shangyuanhsu/sideProjectIdea",
+            "imgArr": {
+                "title": "精選",
+                "list": [
+                    {
+                        "src": "idea1.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "idea2.jpg",
+                        "text": ""
+                    },
+                    {
+                        "src": "idea3.jpg",
+                        "text": ""
+                    }
+                ]
+            },
+            "describe": "一些點子或是練習或是測試。",
+            "allDescribe": {
+                "title": "簡介",
+                "text": "一些點子或是練習或是測試。"
+            },
+            "skill": {
+                "design": {
+                    "title": "設計",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "技術",
+                    "list": [
+                        "Vue.js"
+                    ]
+                }
+            }
+        }
+    }
+}

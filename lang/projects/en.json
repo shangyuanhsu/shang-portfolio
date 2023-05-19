@@ -1,0 +1,460 @@
+{
+    "list": {
+        "Cloudnifier": {
+            "id": "9",
+            "param": "Cloudnifier",
+            "title": "Cloudnifier TW",
+            "image": "ct1.png",
+            "url": "",
+            "imgArr": {
+                "title": "Featured",
+                "list": [
+                    {
+                        "src": "ccg.png",
+                        "text": "CCG Custom CRM."
+                    },
+                    {
+                        "src": "ct2.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "ct3.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "ct8.png",
+                        "text": "Embedding HTML or JavaScript files into the established Dynamics CRM architecture and utilizing Dynamics 365 JS syntax to correctly display data and interface."
+                    },
+                    {
+                        "src": "ct7.png",
+                        "text": "Selecting either a member or a phone number, upon completion, the member's information will be automatically populated, allowing for the printing of a lottery ticket for the member."
+                    },
+                    {
+                        "src": "ct6.png",
+                        "text": "Customizing a CRM using Vue.js to meet the specific operational and interface requirements of the client."
+                    },
+                    {
+                        "src": "ct5.jpg",
+                        "text": "Designing and confirming requirements before development is also within the scope of work."
+                    },
+                    {
+                        "src": "ct4.JPG",
+                        "text": "Creating documentation upon project completion."
+                    }
+                ]
+            },
+            "describe": "Customizing Dynamics CRM and custom CRM while integrating APIs or data from Dynamics CRM's OData.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Our company specializes in providing Microsoft Dynamics CRM system integration and enterprise software consulting services to various business organizations, including manufacturing, retail, finance, and non-profit organizations. I have been involved in projects for companies such as Hanshin, Yata, FET FarEasTone, and Formosa Plastics Group. Within the company, my main responsibility is frontend development, focusing on customizing Dynamics CRM, custom CRM development, and integrating APIs or data from Dynamics CRM's OData."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Vue.js",
+                        "Vuex",
+                        "Pinia",
+                        "Vite",
+                        "Typescript",
+                        "Sass",
+                        "Vue-i18n",
+                        "element-ui",
+                        "OAuth2.0",
+                        "dynamics365 JS",
+                        "Azure DevOps Git"
+                    ]
+                }
+            }
+        },
+        "Ccg": {
+            "id": "8",
+            "param": "Ccg",
+            "title": "ChinaChem CRM",
+            "image": "ccg.png",
+            "url": "",
+            "imgArr": {
+                "title": "Featured",
+                "list": [
+                    {
+                        "src": "ccg1.png",
+                        "text": "Implementing language switching between Chinese and English using vue-i18n."
+                    },
+                    {
+                        "src": "ccg2.png",
+                        "text": "Utilizing the html5-qrcode package to create a QR code scanner for reading member IDs."
+                    },
+                    {
+                        "src": "ccg3.png",
+                        "text": "Using navigator.mediaDevices to activate the camera and capturing the screen using canvas."
+                    },
+                    {
+                        "src": "ccg4.png",
+                        "text": "In addition to dividing tasks among different components, it is also possible to appropriately utilize or extend shared elements created by others."
+                    },
+                    {
+                        "src": "ccg5.png",
+                        "text": "Creating reusable elements while considering tables with different variations."
+                    },
+                    {
+                        "src": "ccg6.png",
+                        "text": "Enabling dynamic addition of a row and adding data within it."
+                    }
+                ]
+            },
+            "describe": "Creating a CRM project with Vue.js and TypeScript using Vite, and constructing the interface with Sass.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "This project is a customized CRM for the Huamao Group in Hong Kong, providing administrators with different permissions to manage member, points, promotions, and events data. In this project, I collaborated with the frontend team to build a CRM project with Vue.js and TypeScript using Vite, and construct the interface with Sass. We utilized Azure DevOps Git for version control. Apart from working on different shared components with the team, I also experimented with using navigator.mediaDevices to access the camera and capture the screen using canvas. Additionally, we incorporated the html5-qrcode package to create a QR code scanner for reading member IDs."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Vue.js",
+                        "Vuex",
+                        "Pinia",
+                        "Vite",
+                        "Typescript",
+                        "Sass",
+                        "Vue-i18n",
+                        "element-ui",
+                        "OAuth2.0",
+                        "Azure DevOps Git"
+                    ]
+                }
+            }
+        },
+        "MathIsland": {
+            "id": "7",
+            "param": "MathIsland",
+            "title": "Math Island",
+            "image": "mi1.png",
+            "url": "",
+            "imgArr": {
+                "title": "Featured",
+                "list": [
+                    {
+                        "src": "mi2.png",
+                        "text": "Every day, the system automatically sends tasks that the student has completed in the past, as well as a problem they haven't attempted yet at their grade level. This platform can also be used by teachers to send practice assignments specifically tailored for individual students or the entire class."
+                    },
+                    {
+                        "src": "mi3.png",
+                        "text": "In addition to questions and answers, there will also be tutorials and hints available to assist students in solving problems. Furthermore, there will be scratch paper provided for students to perform calculations or take notes. The notes written on the scratch paper will be saved for analysis by teachers."
+                    },
+                    {
+                        "src": "mi4.png",
+                        "text": "Students can also share their problem-solving approaches, allowing friends to leave comments and provide feedback on their teaching methods."
+                    },
+                    {
+                        "src": "mi5.png",
+                        "text": "Students can use the money earned from answering questions to purchase stylish boats and houses. I will also create illustrations of these items."
+                    },
+                    {
+                        "src": "mi6.png",
+                        "text": "Friend Zone."
+                    },
+                    {
+                        "src": "mi7.png",
+                        "text": "In addition to being able to view the overall progress of the class they are teaching, teachers can also individually track the learning progress of each student."
+                    },
+                    {
+                        "src": "mi8.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "mi9.png",
+                        "text": "In addition to the learning on Math Island, teachers can also integrate their own teaching materials. This feature allows teachers to track the progress of students' learning on Math Island as well as their performance on assignments provided by the teacher."
+                    },
+                    {
+                        "src": "mi10.png",
+                        "text": "Assignment Hub."
+                    },
+                    {
+                        "src": "mi11.png",
+                        "text": "Raise Hand System, an instant system for students to queue up and ask questions in class."
+                    },
+                    {
+                        "src": "mi12.png",
+                        "text": "The teacher will automatically switch to the next student after completing one student."
+                    }
+                ]
+            },
+            "describe": "A PHP-based website where students can learn math through games, and teachers can track students' learning progress through this platform.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Math Island is part of the 'Tomorrow School' project led by Professor Chen Dehuai from National Central University. It primarily utilizes computers as learning aids for students, assisting teachers in their instruction. Math Island presents mathematical concepts in interactive game formats and guides students through self-paced learning using a course map. Students challenge math tasks and progress through levels according to their abilities, allowing them to plan and manage their own learning, ultimately boosting confidence and interest. Teachers can closely monitor each student's learning status and progress through the learning process, providing individualized guidance and assistance to address any learning difficulties. In this project, I will need to understand the requirements from teachers or research students, design the interface and database accordingly, develop corresponding APIs, and then proceed with frontend development and API integration."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "PhotoShop",
+                        "llustrator",
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "HTML",
+                        "CSS",
+                        "JS",
+                        "PHP",
+                        "MySQL",
+                        "Git",
+                        "D3.js",
+                        "Sourcetree"
+                    ]
+                }
+            }
+        },
+        "Okgo": {
+            "id": "6",
+            "param": "Okgo",
+            "title": "OKGO CRM",
+            "image": "okgocrm1.png",
+            "url": "https://okgocrm.vercel.app/",
+            "imgArr": {
+                "title": "Featured",
+                "list": []
+            },
+            "describe": "Creating a CRM website using Next.js (work in progress).",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Creating a CRM website using Next.js (work in progress)."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "PhotoShop",
+                        "llustrator",
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Next.js",
+                        "material-ui"
+                    ]
+                }
+            }
+        },
+        "Gridstack": {
+            "id": "5",
+            "param": "Gridstack",
+            "title": "Gridstack",
+            "image": "gridstack1.png",
+            "url": "https://shangyuanhsu.github.io/gridstack-vue3/dist/#/",
+            "imgArr": {
+                "title": "Featured",
+                "list": []
+            },
+            "describe": "Using Vue.js in conjunction with Gridstack.js, a functionality has been developed where users can add charts, tables, or text and have the ability to drag them around.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Using Vue.js in conjunction with Gridstack.js, a functionality has been developed where users can add charts, tables, or text and have the ability to drag them around."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Vue.js",
+                        "gridstackjs"
+                    ]
+                }
+            }
+        },
+        "MooldCeramicStudio": {
+            "id": "4",
+            "param": "MooldCeramicStudio",
+            "title": "Moold Ceramic Studio",
+            "image": "MCS1.png",
+            "url": "",
+            "imgArr": {
+                "title": "Featured",
+                "list": []
+            },
+            "describe": "Website planning, design, and front-end implementation practice for a website showcasing pottery products and tutorial courses.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Website planning, design, and front-end implementation practice for a website showcasing pottery products and tutorial courses."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "PhotoShop",
+                        "llustrator",
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "HTML",
+                        "CSS",
+                        "JS",
+                        "JQ"
+                    ]
+                }
+            }
+        },
+        "ChatRoom": {
+            "id": "3",
+            "param": "ChatRoom",
+            "title": "Chat Room",
+            "image": "chatroom1.png",
+            "url": "",
+            "imgArr": {
+                "title": "Featured",
+                "list": []
+            },
+            "describe": "Creating a simple chatroom using Vue.js, Socket.IO, Node.js, and MongoDB.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Creating a simple chatroom using Vue.js, Socket.IO, Node.js, and MongoDB."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Vue.js",
+                        "Socket.IO",
+                        "Node.js",
+                        "mongodb"
+                    ]
+                }
+            }
+        },
+        "MemoryGame": {
+            "id": "2",
+            "param": "MemoryGame",
+            "title": "Memory Game",
+            "image": "MemoryGame1.jpeg",
+            "url": "https://shangyuanhsu.github.io/Card-Memory/build/index.html",
+            "imgArr": {
+                "title": "Featured",
+                "list": []
+            },
+            "describe": "Creating a memory game using React.js.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Creating a memory game using React.js."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "React.js"
+                    ]
+                }
+            }
+        },
+        "ToDoList": {
+            "id": "1",
+            "param": "ToDoList",
+            "title": "To Do List",
+            "image": "todolist1.jpeg",
+            "url": "https://shangyuanhsu.github.io/todolistreact/build/index.html",
+            "imgArr": {
+                "title": "Featured",
+                "list": []
+            },
+            "describe": "Developed using React.js, primarily to practice the 'useContext' hook.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Developed using React.js, primarily to practice the 'useContext' hook."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "React.js"
+                    ]
+                }
+            }
+        },
+        "Idea": {
+            "id": "0",
+            "param": "Idea",
+            "title": "Ideas",
+            "image": "idea1.png",
+            "url": "https://github.com/shangyuanhsu/sideProjectIdea",
+            "imgArr": {
+                "title": "Featured",
+                "list": [
+                    {
+                        "src": "idea1.png",
+                        "text": ""
+                    },
+                    {
+                        "src": "idea2.jpg",
+                        "text": ""
+                    },
+                    {
+                        "src": "idea3.jpg",
+                        "text": ""
+                    }
+                ]
+            },
+            "describe": "Some ideas for exercises or testing.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "Some ideas for exercises or testing."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "XD"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Vue.js"
+                    ]
+                }
+            }
+        }
+    }
+}
