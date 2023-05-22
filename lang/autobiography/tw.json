@@ -4,11 +4,11 @@
         "list":[
             {
                 "title":"HTML / CSS / JavaScript / VueJS / ReactJS / NextJS",
-                "text":"能夠使用前端技術製作出頁面、功能，以及api串接，並且會考慮維護、擴充與模組化的想法來進行程式設計。目前工作上多屬CSR，近期有自行嘗試NextJS來嘗試SSR與SSG，並透過Vercel連動github來部署。"
+                "text":"能夠使用前端技術製作出頁面、功能，以及API串接，並且會考慮維護、擴充與模組化的想法來進行程式設計。目前工作上多屬CSR，近期有自行嘗試NextJS來嘗試SSR與SSG，並透過Vercel連動github來部署。"
             },
             {
                 "title":"PHP / NodeJS / MySQL / Mongodb",
-                "text":"工作上使用PHP進行api製作，另外也會需要依照架構規劃資料庫。私下嘗試使用NodeJS搭配SocketIO和Mongodb製作簡易的聊天室，最近在學習Laravel。"
+                "text":"工作上使用PHP進行API製作，另外也會需要依照架構規劃資料庫。私下嘗試使用NodeJS搭配SocketIO和Mongodb製作簡易的聊天室，最近在學習Laravel。"
             },
             {
                 "title":"Git",
