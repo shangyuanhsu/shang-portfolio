@@ -12,8 +12,7 @@ https://shang-portfolio.vercel.app
 
 
 ## 🛠️
-Next.js
-google analytics
+Next.js + google analytics
 
 
 ## Getting Started
