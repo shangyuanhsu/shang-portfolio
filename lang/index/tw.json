@@ -25,7 +25,7 @@
   },
   "skills": {
     "title":"接觸過的技術",    
-    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / MySQL / Mongodb / Git"
+    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / Laravel / MySQL / Mongodb / Git"
   },
   "workExperience":{
     "title":"工作經歷",
