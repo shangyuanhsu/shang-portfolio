@@ -30,8 +30,8 @@ export default function Home({ locale, t }) {
         <section className={styles.myInfo}>
           <div>
             <h2>{t.shang.name}</h2>
-            <p>{t.shang.born}</p>
-            <p>{t.shang.email}</p>
+            <p className='onpline'>{t.shang.born}</p>
+            <p className='onpline'>{t.shang.email}</p>
           </div>
           <div className={styles.myPhoto}>
             <Image src="/img/shangPhoto.jpeg" width={120} height={120} alt="shang's photo" priority={true} />
@@ -44,20 +44,48 @@ export default function Home({ locale, t }) {
           <p><b>{t.introduce.teamwork.title}</b>{t.introduce.teamwork.text}</p>
         </section>
 
-        <section>
+        {/* <section>
           <Title txt={t.skills.title} />
           <p>{t.skills.list}</p>
+        </section> */}
+
+        <section>
+          <Title txt={t.skills.skill.title} />
+          <div className={styles.skillBox}>
+            <h4>{t.skills.skill.list[0].title}</h4>
+            <p>
+              {t.skills.skill.list[0].text}
+            </p>
+          </div>
+          <div className={styles.skillBox}>
+            <h4>{t.skills.skill.list[1].title}</h4>
+            <p>
+              {t.skills.skill.list[1].text}
+            </p>
+          </div>
+          <div className={styles.skillBox}>
+            <h4>{t.skills.skill.list[2].title}</h4>
+            <p>
+              {t.skills.skill.list[2].text}
+            </p>
+          </div>
+          <div className={styles.skillBox}>
+            <h4>{t.skills.skill.list[3].title}</h4>
+            <p>
+              {t.skills.skill.list[3].text}
+            </p>
+          </div>
         </section>
 
         <section>
           <Title txt={t.workExperience.title} />
-          <p><b>{t.workExperience.list[0].time} : </b>{t.workExperience.list[0].title}</p>
+          <p className={styles.skillBox}><b>{t.workExperience.list[0].time} : </b>{t.workExperience.list[0].title}</p>
           <p>[ {t.workExperience.list[0].description} ]</p>
-          <p><b>{t.workExperience.list[1].time} : </b>{t.workExperience.list[1].title}</p>
+          <p className={styles.skillBox}><b>{t.workExperience.list[1].time} : </b>{t.workExperience.list[1].title}</p>
           <p>[ {t.workExperience.list[1].description} ]</p>
-          <p><b>{t.workExperience.list[2].time} : </b>{t.workExperience.list[2].title}</p>
+          <p className={styles.skillBox}><b>{t.workExperience.list[2].time} : </b>{t.workExperience.list[2].title}</p>
           <p>[ {t.workExperience.list[2].description} ]</p>
-          <p><b>{t.workExperience.list[3].time} : </b>{t.workExperience.list[3].title}</p>
+          <p className={styles.skillBox}><b>{t.workExperience.list[3].time} : </b>{t.workExperience.list[3].title}</p>
           <p>[ {t.workExperience.list[3].description} ]</p>
         </section>
 

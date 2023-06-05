@@ -1,8 +1,8 @@
 {
-  "nav":{
-    "autobiography":"自傳",
-    "project":"計畫",
-    "post":"筆記"
+  "nav": {
+    "autobiography": "自傳",
+    "project": "計畫",
+    "post": "筆記"
   },
   "shang": {
     "name": "許尚媛 Hsu,Shang-Yuan",
@@ -24,37 +24,58 @@
     }
   },
   "skills": {
-    "title":"接觸過的技術",    
-    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / Laravel / MySQL / Mongodb / Git"
+    "title": "接觸過的技術",
+    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / Laravel / MySQL / Mongodb / Git",
+    "skill": {
+      "title": "技術狀態",
+      "list": [
+        {
+          "title": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS",
+          "text": "能夠使用前端技術製作出頁面、功能，以及API串接，並且會考慮維護、擴充與模組化的想法來進行程式設計。目前工作上多屬CSR，近期有自行嘗試NextJS來嘗試SSR與SSG，並透過Vercel連動Github來部署。"
+        },
+        {
+          "title": "PHP / Laravel / NodeJS / MySQL / Mongodb",
+          "text": "工作上使用PHP進行API製作，另外也會需要依照架構規劃資料庫。私下嘗試使用NodeJS搭配SocketIO和Mongodb製作簡易的聊天室，也有使用Laravel製作API。工作上有使用MySQL的EXPLAIN來了解SQL執行的方式，並且適當使用索引來加強搜尋速度，有使用過分區與分表來優化資料庫。"
+        },
+        {
+          "title": "Git",
+          "text": "在版本控制中除了可以保存開發步驟，也可以藉此了解自己與團隊的開發進度，讓自己更有目標與效率。"
+        },
+        {
+          "title": "Illustrator / Photoshop / XD",
+          "text": "美術系背景使我在公司中可以更有效地跟設計師與顧客做設計層面的溝通與討論。"
+        }
+      ]
+    }
   },
-  "workExperience":{
-    "title":"工作經歷",
-    "list":[
+  "workExperience": {
+    "title": "工作經歷",
+    "list": [
       {
-        "time":"2022 - 2023",
-        "title":"Cloudnifier Taiwan 前端工程師",
-        "description":"客製化 Dynamics CRM 以及客製化 CRM ，並且串接 api 或是 Dynamics CRM 中 Odata 的資料"
+        "time": "2022 - 2023",
+        "title": "Cloudnifier Taiwan 前端工程師",
+        "description": "客製化 Dynamics CRM 以及客製化 CRM ，並且串接 API 或是 Dynamics CRM 中 Odata 的資料"
       },
       {
-        "time":"2020 - present",
-        "title":"Tibame 講師",
-        "description":"教學內容為 UI設計, HTML, CSS, JS"
+        "time": "2020 - present",
+        "title": "Tibame 講師",
+        "description": "教學內容為 UI設計, HTML, CSS, JS"
       },
       {
-        "time":"2020 - 2021",
-        "title":"中央大學 程式設計師",
-        "description":"網站開發與維護，包括規劃資料庫、UIUX網頁設計、前端功能開發、後端資料整理"
+        "time": "2020 - 2021",
+        "title": "中央大學 程式設計師",
+        "description": "網站開發與維護，包括規劃資料庫、UIUX網頁設計、前端功能開發、後端資料整理"
       },
       {
-        "time":"2015 - present",
-        "title":"自由接案",
-        "description":"網站製作, UIUX網頁設計, Logo設計, 插畫"
+        "time": "2015 - present",
+        "title": "自由接案",
+        "description": "網站製作, UIUX網頁設計, Logo設計, 插畫"
       }
     ]
   },
-  "education":{
-    "title":"教育背景",
-    "list":[
+  "education": {
+    "title": "教育背景",
+    "list": [
       "國立臺南藝術大學 造形藝術研究所 碩士",
       "國立臺北藝術大學 美術學系 學士"
     ]

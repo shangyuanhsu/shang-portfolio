@@ -1,8 +1,8 @@
 {
-  "nav":{
-    "autobiography":"Bio",
-    "project":"Project",
-    "post":"Post"
+  "nav": {
+    "autobiography": "Bio",
+    "project": "Project",
+    "post": "Post"
   },
   "shang": {
     "name": "Hsu,Shang-Yuan",
@@ -25,37 +25,57 @@
   },
   "skills": {
     "title": "Skills",
-    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / Laravel / MySQL / Mongodb / Git"
+    "list": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS / NodeJS / PHP / Laravel / MySQL / Mongodb / Git",
+    "skill": {
+      "title": "Skills",
+      "list": [
+        {
+          "title": "HTML / CSS / JavaScript / VueJS / ReactJS / NextJS",
+          "text": "I possess skills in frontend development to create web pages, functionalities, and integrate APIs. Additionally, I prioritize considerations such as maintenance, scalability, and modular design in my programming approach. In my current work, I mainly focus on client-side rendering (CSR), but I have recently been exploring server-side rendering (SSR) and static site generation (SSG) using Next.js. I also utilize Vercel to seamlessly deploy my projects by connecting with GitHub."
+        },
+        {
+          "title": "PHP / Laravel / NodeJS / MySQL / Mongodb",
+          "text": "I work with PHP for API development at work, and I also handle database planning based on the architecture requirements. In my personal projects, I have been exploring the use of Node.js along with Socket.IO and MongoDB to create a simple chat room. I have also utilized Laravel for API development.I have utilized MySQL's EXPLAIN feature to understand the execution plan of SQL queries and have made use of appropriate indexes to enhance search performance. Additionally, I have employed partitioning and sharding techniques to optimize databases."
+        },
+        {
+          "title": "Git",
+          "text": "Version control not only allows for the preservation of development steps but also provides insights into individual and team progress, enabling individuals to set goals and improve efficiency."
+        },
+        {
+          "title": "Illustrator / Photoshop / XD",
+          "text": "Having a background in fine arts equips me with the ability to communicate and discuss design aspects more effectively with designers and clients within a company setting."
+        }
+      ]
+    }
   },
-  "workExperience":{
-    "title":"Work Experience",
-    "list":[
+  "workExperience": {
+    "title": "Work Experience",
+    "list": [
       {
-        "time":"2022 - 2023",
-        "title":"Cloudnifier Taiwan Front-end Engineer",
-        "description":"CRM Customized page program development and maintenance"
+        "time": "2022 - 2023",
+        "title": "Cloudnifier Taiwan Front-end Engineer",
+        "description": "CRM Customized page program development and maintenance"
       },
       {
-        "time":"2020 - present",
-        "title":"Tibame Speaker",
-        "description":"Teaching UI design, HTML, CSS, JS"
+        "time": "2020 - present",
+        "title": "Tibame Speaker",
+        "description": "Teaching UI design, HTML, CSS, JS"
       },
       {
-        "time":"2020 - 2021",
-        "title":"Network Learning Technology, NCU Software Engineer",
-        "description":"Develop and maintain websites, including planning database, website vision, front-end function development, and back-end data organization"
+        "time": "2020 - 2021",
+        "title": "Network Learning Technology, NCU Software Engineer",
+        "description": "Develop and maintain websites, including planning database, website vision, front-end function development, and back-end data organization"
       },
       {
-        "time":"2015 - present",
-        "title":"Freelancer",
-        "description":"Website Design, UIUX Design, Logo Design, Illustration"
+        "time": "2015 - present",
+        "title": "Freelancer",
+        "description": "Website Design, UIUX Design, Logo Design, Illustration"
       }
     ]
-
   },
-  "education":{
-    "title":"Education",
-    "list":[
+  "education": {
+    "title": "Education",
+    "list": [
       "Master's deegree, Plastic arts, Tainan National University of the Arts",
       "Bachelor's degree, Fine Arts, Taipei National University of the Arts"
     ]

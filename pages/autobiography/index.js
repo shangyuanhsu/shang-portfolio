@@ -23,48 +23,20 @@ const Autobiography = ({ locale, t }) => {
                 <title>Shang | Bio</title>
             </Head>
             <div>
-                <h3>{t.skill.title}</h3>
-                <section className={styles.skillAll}>
-                    <div>
-                        <h4>{t.skill.list[0].title}</h4>
-                        <p>
-                            {t.skill.list[0].text}
-                        </p>
-                    </div>
-                    <div>
-                        <h4>{t.skill.list[1].title}</h4>
-                        <p>
-                            {t.skill.list[1].text}
-                        </p>
-                    </div>
-                    <div>
-                        <h4>{t.skill.list[2].title}</h4>
-                        <p>
-                            {t.skill.list[2].text}
-                        </p>
-                    </div>
-                    <div>
-                        <h4>{t.skill.list[3].title}</h4>
-                        <p>
-                            {t.skill.list[3].text}
-                        </p>
-                    </div>
-                </section>
-                <h3>{t.about.title}</h3>
                 <section className={styles.about}>
-                    <h4>{t.about.list[0].title}</h4>
+                    <h3>{t.about.list[0].title}</h3>
                     <p>
                         {t.about.list[0].text}
                     </p>
-                    <h4>{t.about.list[1].title}</h4>
+                    <h3>{t.about.list[1].title}</h3>
                     <p>
                         {t.about.list[1].text}
                     </p>
-                    <h4>{t.about.list[2].title}</h4>
+                    <h3>{t.about.list[2].title}</h3>
                     <p>
                         {t.about.list[2].text}
                     </p>
-                    <h4>{t.about.list[3].title}</h4>
+                    <h3>{t.about.list[3].title}</h3>
                     <p>
                         {t.about.list[3].text}
                     </p>

@@ -276,9 +276,9 @@ section {
 }
 
 p {
-  margin: 10px 0;
-  line-height: 28px;
-  /* word-break: break-all; */
+  margin: 5px 0;
+  line-height: 30px;
+  word-break: break-all;
 }
 
 main {

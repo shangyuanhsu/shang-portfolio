@@ -9,10 +9,10 @@
     flex-direction: column;
 }
 
-.skillAll>div>h4, .about>h4 {
-    margin: 10px 0;
+.skillAll>div>h3, .about>h3 {
+    margin: 30px 0 10px 0;
 }
-.skillAll>div:nth-child(2)>h4{
+.skillAll>div:nth-child(2)>h3{
     height: 48px;
 }
 
@@ -23,10 +23,10 @@
     .skillAll>div {
         display: block;
     }
-    .skillAll>div>h4, .about>h4 {
+    .skillAll>div>h3, .about>h3 {
         margin: 20px 0;
     }
-    .skillAll>div:nth-child(2)>h4{
+    .skillAll>div:nth-child(2)>h3{
         height: auto;
     }
 }
