@@ -8,7 +8,7 @@ it's my portfolio、cv、resume
 
 https://shang-portfolio.vercel.app
 
-![截圖 2023-05-19 下午6 57 20](https://github.com/shangyuanhsu/shang-portfolio/assets/58197444/a9c1df4c-e36e-4e0d-8cc6-2bc9b1f137b3)
+![cv](https://github.com/shangyuanhsu/shang-portfolio/assets/58197444/d4b154c4-18d8-43c2-99fb-fb2a7779875f)
 
 
 ## 🛠️
