@@ -2,9 +2,11 @@ import styles from "../../styles/Projects.module.css";
 import Head from 'next/head';
 import Image from "next/image";
 import { useRouter } from "next/router";
+import { useEffect } from "react";
 
 
 export async function getStaticPaths() {
+   
     return {
         paths: [],
         fallback: "blocking",
@@ -12,6 +14,7 @@ export async function getStaticPaths() {
 }
 
 export function getStaticProps({ locale }) {
+  
     return {
         props: {
             locale,
@@ -28,6 +31,16 @@ const ProjectsItem = ({ t }) => {
     const id = query.id;
     const hasProjectData = t.list[id];
     console.log(hasProjectData)
+    const gtmObj = {
+        key:"006013",
+        project:hasProjectData.title
+    }
+    useEffect(()=>{
+        window.dataLayer?.push({
+            event: "clickPage",
+            ...gtmObj
+          });
+    })
     return (
         <>
             <Head>
