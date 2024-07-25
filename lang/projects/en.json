@@ -1,5 +1,57 @@
 {
     "list": {
+        "Homeplus": {
+            "id": "11",
+            "param": "Homeplus",
+            "title": "Homeplus",
+            "image": "hp1.png",
+            "url": "",
+            "imgArr": {
+                "title": "Featured",
+                "list": [
+                    {
+                        "src": "hp1.png",
+                        "text": "Internal System Maintenance and Development"
+                    },
+                    {
+                        "src": "hp2.png",
+                        "text": "For the event project, redemption codes can be uploaded and then matched with the corresponding users through a scheduled task, followed by sending SMS messages. The redemption results can also be uploaded, with the quantity being reported back through another scheduled task. Other features include resending SMS messages or updating the latest phone numbers. The interface allows our service staff to easily check the current status of these methods."
+                    },
+                    {
+                        "src": "hp3.png",
+                        "text": "Collaborated with banks to enable our service staff to conveniently upload bills to the bank"
+                    },
+                    {
+                        "src": "hp4.png",
+                        "text": "When customer service personnel handle user personal information, they need to enter a password to verify that they are authorized company employees before accessing the data."
+                    }
+                ]
+            },
+            "describe": "Primarily responsible for maintaining and developing internal company systems, OTT services, and apps, using Laravel and MSSQL.",
+            "allDescribe": {
+                "title": "Introduction",
+                "text": "In the company, I am primarily responsible for maintaining and developing internal systems. I work with marketing and other departments to provide scheduling or on-page functionalities based on their needs, enhancing data management efficiency. Additionally, I handle OTT services, which includes creating APIs for external vendors and maintaining the company's app screens and APIs. For legacy projects, I have organized shared functions and refactored parts of the code, implemented Laravel’s service and repository architecture, and performed security assessments and optimizations, such as promoting API tokens and assisting with Laravel Sanctum."
+            },
+            "skill": {
+                "design": {
+                    "title": "Design",
+                    "list": [
+                        "--"
+                    ]
+                },
+                "development": {
+                    "title": "Skills",
+                    "list": [
+                        "Laravel",
+                        "Codeigniter",
+                        "JavaScrupt",
+                        "MSSQL",
+                        "Vagrant",
+                        "Docker"
+                    ]
+                }
+            }
+        },
         "SurveyLaravel": {
             "id": "10",
             "param": "SurveyLaravel",
