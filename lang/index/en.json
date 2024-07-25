@@ -31,15 +31,19 @@
       "list": [
         {
           "title": "HTML / CSS / JavaScript / VueJS / ReactJS / NuxtJS / NextJS",
-          "text": "I possess skills in frontend development to create web pages, functionalities, and integrate APIs. Additionally, I prioritize considerations such as maintenance, scalability, and modular design in my programming approach. In my current work, I mainly focus on client-side rendering (CSR), but I have recently been exploring server-side rendering (SSR) and static site generation (SSG) using Next.js. I also utilize Vercel to seamlessly deploy my projects by connecting with GitHub."
+          "text": "Capable of creating web pages and functionalities using front-end technologies, as well as integrating APIs. I always consider maintainability, scalability, and modular design in my programming. Most of my work involves client-side rendering (CSR), but I have also experimented with NextJS and NuxtJS to explore server-side rendering (SSR) and static site generation (SSG). Additionally, I have used Vercel to deploy projects connected with GitHub."
         },
         {
           "title": "PHP / Laravel / NodeJS / MySQL / Mssql / Mongodb",
-          "text": "I work with PHP for API development at work, and I also handle database planning based on the architecture requirements. In my personal projects, I have been exploring the use of Node.js along with Socket.IO and MongoDB to create a simple chat room. I have also utilized Laravel for API development.I have utilized MySQL's EXPLAIN feature to understand the execution plan of SQL queries and have made use of appropriate indexes to enhance search performance. Additionally, I have employed partitioning and sharding techniques to optimize databases."
+          "text": "Capable of creating APIs according to requirements and planning databases according to the architecture. I have experience in assisting companies with optimizing and refactoring legacy projects. Additionally, in my spare time, I have experimented with using NodeJS with SocketIO and MongoDB to create a simple chat room. In my work, I have used MySQL's EXPLAIN to understand SQL execution and appropriately used indexes to enhance search speed. I have also utilized partitioning and sharding to optimize databases."
         },
         {
-          "title": "Git",
-          "text": "Version control not only allows for the preservation of development steps but also provides insights into individual and team progress, enabling individuals to set goals and improve efficiency."
+          "title": "Vagrant / Docker",
+          "text": "Able to create consistent development and testing environments, enhancing development efficiency and deployment speed."
+        },
+        {
+          "title": "Git / GitLab / Redmine",
+          "text": "In addition to preserving development steps, Git and Redmine help track individual and team progress, ensuring communication with PMs or SAs and enhancing goal orientation and efficiency. Automatic deployment can be achieved through Webhooks in GitLab. Additionally, before releases, we conduct code reviews and prepare release documents, making the deployment process more efficient."
         },
         {
           "title": "Illustrator / Photoshop / XD",

@@ -31,15 +31,19 @@
       "list": [
         {
           "title": "HTML / CSS / JavaScript / VueJS / ReactJS / NuxtJS / NextJS",
-          "text": "能夠使用前端技術製作出頁面、功能，以及API串接，並且會考慮維護、擴充與模組化的想法來進行程式設計。目前工作上多屬CSR，近期有自行嘗試NextJS來嘗試SSR與SSG，並透過Vercel連動Github來部署。"
+          "text": "能夠使用前端技術製作出頁面、功能，以及API串接，並且會考慮維護、擴充與模組化的想法來進行程式設計。工作上多屬CSR，也有自行嘗試NextJS與NuxtJS來嘗試SSR與SSG，並透過Vercel連動Github來部署。"
         },
         {
-          "title": "PHP / Laravel / NodeJS / MySQL / Mssql / Mongodb",
-          "text": "工作上使用PHP進行API製作，另外也會需要依照架構規劃資料庫。私下嘗試使用NodeJS搭配SocketIO和Mongodb製作簡易的聊天室，也有使用Laravel製作API。工作上有使用MySQL的EXPLAIN來了解SQL執行的方式，並且適當使用索引來加強搜尋速度，有使用過分區與分表來優化資料庫。"
+          "title": "PHP / Laravel / NodeJS / MySQL / MSSQL / MongoDB",
+          "text": "能依照需求做出API，也能依照架構規劃資料庫，並且在過往我有協助公司優化與重構舊專案的經驗。另外，私下嘗試使用NodeJS搭配SocketIO和MongoDB製作簡易的聊天室。工作上有使用MySQL的EXPLAIN來了解SQL執行的方式，並且適當使用索引來加強搜尋速度，有使用過分區與分表來優化資料庫。"
         },
         {
-          "title": "Git",
-          "text": "在版本控制中除了可以保存開發步驟，也可以藉此了解自己與團隊的開發進度，讓自己更有目標與效率。"
+          "title": "Vagrant / Docker",
+          "text": "能夠創建一致的開發和測試環境，提升了開發效率和部署速度。"
+        },
+        {
+          "title": "Git / GitLab / Redmine",
+          "text": "Ｇit與Redmine除了可以保存開發步驟，也可以藉此了解自己與團隊的開發進度，與PM或SA保持資訊互通外，讓自己更有目標與效率。可以透過GitLab中的Ｗebhook達到自動部署。另外，在上版前，我們會有code review以及撰寫上版文件的前置作業，讓上版更有效率。"
         },
         {
           "title": "Illustrator / Photoshop / XD",
