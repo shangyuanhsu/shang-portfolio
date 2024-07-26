@@ -15,7 +15,7 @@
                     },
                     {
                         "src": "hp2.png",
-                        "text": "For the event project, redemption codes can be uploaded and then matched with the corresponding users through a scheduled task, followed by sending SMS messages. The redemption results can also be uploaded, with the quantity being reported back through another scheduled task. Other features include resending SMS messages or updating the latest phone numbers. The interface allows our service staff to easily check the current status of these methods."
+                        "text": "Users can upload redemption codes, which will be matched to the corresponding users through scheduled tasks, and then SMS notifications will be sent. Users can also upload the redemption results, and scheduled tasks will be used to report the quantities. Other features include the ability to resend SMS notifications or update the latest phone numbers. The interface will also allow our service staff to easily check the current status of the distribution."
                     },
                     {
                         "src": "hp3.png",
