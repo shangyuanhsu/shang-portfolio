@@ -44,7 +44,8 @@
                     "list": [
                         "Laravel",
                         "Codeigniter",
-                        "JavaScrupt",
+                        "JavaScript",
+                        "MySQL",
                         "MSSQL",
                         "Vagrant",
                         "Docker"
