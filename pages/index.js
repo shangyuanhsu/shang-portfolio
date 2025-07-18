@@ -51,42 +51,24 @@ export default function Home({ locale, t }) {
 
         <section>
           <Title txt={t.skills.skill.title} />
-          <div className={styles.skillBox}>
-            <h4>{t.skills.skill.list[0].title}</h4>
-            <p>
-              {t.skills.skill.list[0].text}
-            </p>
-          </div>
-          <div className={styles.skillBox}>
-            <h4>{t.skills.skill.list[1].title}</h4>
-            <p>
-              {t.skills.skill.list[1].text}
-            </p>
-          </div>
-          <div className={styles.skillBox}>
-            <h4>{t.skills.skill.list[2].title}</h4>
-            <p>
-              {t.skills.skill.list[2].text}
-            </p>
-          </div>
-          <div className={styles.skillBox}>
-            <h4>{t.skills.skill.list[3].title}</h4>
-            <p>
-              {t.skills.skill.list[3].text}
-            </p>
-          </div>
+          {t.skills.skill.list.map((item, index) => (
+            <div key={index} className={styles.skillBox}>
+              <h4>{item.title}</h4>
+              <p>{item.text}</p>
+            </div>
+          ))}
         </section>
 
         <section>
           <Title txt={t.workExperience.title} />
-          <p className={styles.skillBox}><b>{t.workExperience.list[0].time} : </b>{t.workExperience.list[0].title}</p>
-          <p>[ {t.workExperience.list[0].description} ]</p>
-          <p className={styles.skillBox}><b>{t.workExperience.list[1].time} : </b>{t.workExperience.list[1].title}</p>
-          <p>[ {t.workExperience.list[1].description} ]</p>
-          <p className={styles.skillBox}><b>{t.workExperience.list[2].time} : </b>{t.workExperience.list[2].title}</p>
-          <p>[ {t.workExperience.list[2].description} ]</p>
-          <p className={styles.skillBox}><b>{t.workExperience.list[3].time} : </b>{t.workExperience.list[3].title}</p>
-          <p>[ {t.workExperience.list[3].description} ]</p>
+          {t.workExperience.list.map((item, index) => (
+            <div key={index} className={styles.skillBox}>
+              <p><b>{item.time} : {item.title}</b></p>
+              {item.description.map((desc, descIndex) => (
+                <p key={descIndex}>{desc}</p>
+              ))}
+            </div>
+          ))}
         </section>
 
         <section>

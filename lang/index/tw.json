@@ -31,23 +31,19 @@
       "list": [
         {
           "title": "HTML / CSS / JavaScript / VueJS / ReactJS / NuxtJS / NextJS",
-          "text": "能夠使用前端技術製作出頁面、功能，以及API串接，並且會考慮維護、擴充與模組化的想法來進行程式設計。工作上多屬CSR，也有自行嘗試NextJS與NuxtJS來嘗試SSR與SSG，並透過Vercel連動Github來部署。"
+          "text": "具備前端開發能力，能獨立開發網頁畫面與功能，串接後端 API。熟悉模組化與可維護性的前端設計。過去工作以 CSR 為主，也曾自主研究 SSR/SSG 技術，使用 Next.js 與 Nuxt.js 實作，並透過 Vercel 結合 GitHub 進行部署。"
         },
         {
-          "title": "PHP / Laravel / NodeJS / MySQL / MSSQL / MongoDB",
-          "text": "能依照需求做出API，也能依照架構規劃資料庫，並且在過往我有協助公司優化與重構舊專案的經驗。另外，私下嘗試使用NodeJS搭配SocketIO和MongoDB製作簡易的聊天室。工作上有使用MySQL的EXPLAIN來了解SQL執行的方式，並且適當使用索引來加強搜尋速度，有使用過分區與分表來優化資料庫。"
+          "title": "PHP / Laravel / NodeJS / MySQL / MSSQL / MongoDB / Redis",
+          "text": "熟悉 Laravel API 設計、資料驗證、middleware 授權機制，並能靈活運用 Laravel 的 Service Container 進行依賴注入與模組化設計，能依據需求規劃資料庫結構，並具備既有專案重構與效能優化經驗。曾使用 Node.js + Socket.IO + MongoDB 開發聊天室原型。具備使用 MySQL EXPLAIN 分析 SQL 效能的能力，熟悉索引應用、分區與分表策略以提升查詢效能。"
         },
         {
           "title": "Vagrant / Docker",
-          "text": "能夠創建一致的開發和測試環境，提升了開發效率和部署速度。"
+          "text": "具備使用 Vagrant 與 Docker 建立一致的開發與測試環境的經驗，提升團隊開發效率與部署速度，具備 Laravel 專案在容器中的開發流程。"
         },
         {
-          "title": "Git / GitLab / Redmine",
-          "text": "Ｇit與Redmine除了可以保存開發步驟，也可以藉此了解自己與團隊的開發進度，與PM或SA保持資訊互通外，讓自己更有目標與效率。可以透過GitLab中的Ｗebhook達到自動部署。另外，在上版前，我們會有code review以及撰寫上版文件的前置作業，讓上版更有效率。"
-        },
-        {
-          "title": "Illustrator / Photoshop / XD",
-          "text": "美術系背景使我在公司中可以更有效地跟設計師與顧客做設計層面的溝通與討論。"
+          "title": "Git / GitLab / Jenkins / Redmine",
+          "text": "熟悉 Git 工作流程，自行設定 Jenkins 實現自動部署。透過 Redmine 與團隊追蹤任務進度，與 PM 或 SA 保持良好溝通。上版前進行 code review 並撰寫部署文件，確保部署流程順暢且具備回溯機制。"
         }
       ]
     }
@@ -58,27 +54,57 @@
       {
         "time": "2023 - present",
         "title": "中嘉數位股份有限公司 資深工程師",
-        "description": "網站開發與維護，包括規劃資料庫、UIUX網頁設計、前端功能開發、後端資料整理"
+        "description": [
+          "(Laravel、JavaScript、MySQL、MSSQL、RESTful API、Git、Docker、Jenkins)",
+          "1. 與行銷及其他部門協作，維護並強化內部系統，開發排程工具與頁面功能，以提升資料管理效率。",
+          "2. 開發並維護 OTT 服務相關的 API，支援與 Disney+、Catchplay、FriDay 影音等外部廠商的串接，並負責應用程式端的介面與功能設計。",
+          "3. 重構舊有程式碼，整理共用工具函式，並導入 Laravel 的 Service 與 Repository Pattern，以提升系統模組化與可維護性。",
+          "4. 進行安全性檢查與優化，推廣安全的 API Token 使用方式，並整合 Laravel Sanctum 與 Passport 以強化驗證機制。",
+          "5. 參與跨部門的技術規劃，將商業需求與技術解法對齊，確保系統具備良好的擴充性與可維護性。",
+          "6. 使用 Laravel 的 lockForUpdate() 搭配資料庫交易（transaction）機制，確保同一筆資料在更新期間不會被多個請求同時修改。"
+        ]
       },
       {
         "time": "2022 - 2023",
         "title": "Cloudnifier Taiwan 前端工程師",
-        "description": "客製化 Dynamics CRM 以及客製化 CRM ，並且串接 API 或是 Dynamics CRM 中 Odata 的資料"
+        "description": [
+          "(JavaScript, HTML/CSS, Dynamics CRM, Vue.js, React.js ,REST API, OData, Git)",
+          "1. 為 Microsoft Dynamics CRM 開發客製化的前端元件與 UI 強化功能，以滿足客戶特定的業務需求。",
+          "2. 針對製造、電信與零售等產業（包括漢神、Yata、遠傳、香港華懋集團）之企業客戶，自訂 CRM 模組與表單。",
+          "3. 透過使用 Dynamics CRM 的 OData API，整合外部系統與服務，實現跨平台資料串接。",
+          "4. 與顧問與後端開發人員密切合作，交付符合業務流程的端到端 CRM 解決方案。",
+          "5. 提供技術支援與 UI 微調，提升使用者體驗，協助各部門順利導入系統。"
+        ]
       },
       {
         "time": "2020 - present",
         "title": "Tibame 講師",
-        "description": "教學內容為 UI設計, HTML, CSS, JS"
+        "description": [
+          "1. 在轉職導向的課程中教授成人學員前端網頁開發，重點在於 JavaScript 基礎與實務應用。",
+          "2. 以教室講課形式授課內容涵蓋 HTML、CSS、JavaScript 及基礎 UI 設計，強調問題解決與專案導向學習。",
+          "3. 指導學生掌握 JavaScript 核心觀念，包括 DOM 操作、函式、陣列、作用域以及非同步操作等。",
+          "4. 製作並維護教學內容，包括現場程式演練與初學者專屬練習題，幫助他們順利進入科技產業。",
+          "5. 透過程式碼審查、即時問答與課堂除錯講解，協助學生掌握學習進度。"
+        ]
       },
       {
         "time": "2020 - 2021",
         "title": "中央大學 程式設計師",
-        "description": "網站開發與維護，包括規劃資料庫、UIUX網頁設計、前端功能開發、後端資料整理"
+        "description": [
+          "(PHP, Javascript, Vue.js, MySQL, RESTful API, Git)",
+          "1. 與教育工作者與研究人員合作，釐清使用者需求與功能規格，打造「明日學校」專案下的數學學習平台。",
+          "2. 設計並實作資料庫架構，以支援個人化學習路徑、任務進度與學生學習成效追蹤。",
+          "3. 開發 RESTful API，處理學生活動、學習狀態與教師即時監控用的後台儀表板。",
+          "4. 使用 Vue.js 建立前端元件，並整合後端服務，提供流暢且具互動性的學習體驗。",
+          "5. 根據學生與教師的可用性測試結果，持續進行 UI 調整與功能優化。"
+        ]
       },
       {
         "time": "2015 - present",
         "title": "自由接案",
-        "description": "網站製作, UIUX網頁設計, Logo設計, 插畫"
+        "description": [
+          "網站製作, UIUX網頁設計, Logo設計, 插畫"
+        ]
       }
     ]
   },

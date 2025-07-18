@@ -44,10 +44,6 @@
         {
           "title": "Git / GitLab / Redmine",
           "text": "In addition to preserving development steps, Git and Redmine help track individual and team progress, ensuring communication with PMs or SAs and enhancing goal orientation and efficiency. Automatic deployment can be achieved through Webhooks in GitLab. Additionally, before releases, we conduct code reviews and prepare release documents, making the deployment process more efficient."
-        },
-        {
-          "title": "Illustrator / Photoshop / XD",
-          "text": "Having a background in fine arts equips me with the ability to communicate and discuss design aspects more effectively with designers and clients within a company setting."
         }
       ]
     }
@@ -58,27 +54,60 @@
       {
         "time": "2023 - present",
         "title": "Homeplus Digital Co., Ltd. Senior Software Engineer",
-        "description": "Develop and maintain websites, including planning database, website vision, front-end function development, and back-end data organization"
+        "description": [
+          "(Laravel, Javascript, MySQL, MSSQL, RESTful API, Git, Docker, Jenkins)",
+          "1. Maintained and enhanced internal systems by collaborating with marketing and other departments to implement scheduling tools and on-page features that improve data management efficiency.",
+          "2. Developed and maintained APIs for OTT services, supporting external vendor integrations with Disney+, Catchplay, FriDay影音, and managing app interfaces and functionality.",
+          "3. Refactored legacy codebases by organizing shared utilities and adopting Laravel’s service and repository patterns to improve modularity and maintainability.",
+          "4. Conducted security reviews and optimizations, including promoting secure API token usage and integrating Laravel Sanctum and Passport for improved authentication.",
+          "5. Participated in cross-team planning to align technical solutions with business requirements, ensuring maintainable and scalable outcomes.",
+          "6. Used Laravel's lockForUpdate() combined with database transactions to ensure that the same record is not modified concurrently by multiple requests during an update."
+        ]
       },
       {
         "time": "2022 - 2023",
         "title": "Cloudnifier Taiwan Front-end Engineer",
-        "description": "CRM Customized page program development and maintenance"
+        "description": [
+          "JavaScript, HTML/CSS, Dynamics CRM, Vue.js, React.js ,REST API, OData, Git)",
+          "1. Developed custom frontend components and UI enhancements for Microsoft Dynamics CRM to meet client-specific business requirements.",
+          "2. Customized CRM modules and forms for enterprise clients across industries such as manufacturing, telecom, and retail, including Hanshin, Yata, FET, and Chinachem Group.",
+          "3. Integrated external systems and services by consuming Dynamics CRM OData APIs and connecting data across platforms.",
+          "4. Collaborated closely with consultants and backend developers to deliver end-to-end CRM solutions aligned with business workflows.",
+          "5. Provided technical support and UI adjustments to enhance usability and ensure smooth adoption across departments."
+        ]
       },
       {
         "time": "2020 - present",
         "title": "Tibame Speaker",
-        "description": "Teaching UI design, HTML, CSS, JS"
+        "description": [
+          "1. Teach front-end web development to adult learners in a structured career-switching program, focusing on JavaScript fundamentals and practical application.",
+          "2. Deliver classroom-style lessons on HTML, CSS, JavaScript, and basic UI design, with an emphasis on problem-solving and project-based learning.",
+          "3. Guide students through core JavaScript concepts including DOM manipulation, functions, arrays, scope, and asynchronous operations.",
+          "4. Create and maintain instructional materials, live coding demos, and exercises tailored for beginners transitioning into tech roles.",
+          "5. Support class-based learning progress through code reviews, live Q&A, and in-class debugging walkthroughs."
+        ]
       },
       {
         "time": "2020 - 2021",
         "title": "Network Learning Technology, NCU Software Engineer",
-        "description": "Develop and maintain websites, including planning database, website vision, front-end function development, and back-end data organization"
+        "description": [
+          " (PHP, Javascript, Vue.js, MySQL, RESTful API, Git)",
+          "1. Collaborated with educators and researchers to define user needs and functional requirements for a math learning platform under the 'Tomorrow School' project.",
+          "2. Designed and implemented database schema to support personalized learning paths, task progression, and student performance tracking.",
+          "3. Developed RESTful APIs to handle student activities, learning status, and teacher dashboards for real-time monitoring.",
+          "4. Built front-end components using Vue.js and integrated them with backend services for a smooth and interactive learning experience.",
+          "5. Supported iterative feedback and UI updates based on usability testing with students and teachers."
+        ]
       },
       {
         "time": "2015 - present",
         "title": "Freelancer",
-        "description": "Website Design, UIUX Design, Logo Design, Illustration"
+        "description": [
+          " 1. Provide website design services using Adobe XD and Figma, creating visually appealing and user-friendly mockups tailored to client needs.",
+          "2. Develop responsive and maintainable front-end layouts using HTML, CSS, SASS, Pug, and Vue.js, ensuring cross-browser compatibility and performance.",
+          "3. Collaborate with clients such as Delta and Root Law to deliver high-quality web solutions that align with their brand and business goals.",
+          "4. Manage project timelines and communication effectively to ensure smooth progress and timely delivery."
+        ]
       }
     ]
   },

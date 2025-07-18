@@ -1,54 +1,5 @@
 {
     "list": {
-        "Homeplus": {
-            "id": "11",
-            "param": "Homeplus",
-            "title": "Homeplus",
-            "image": "hp1.png",
-            "url": "",
-            "imgArr": {
-                "title": "精選",
-                "list": [
-                    {
-                        "src": "hp2.png",
-                        "text": "活動案，可以上傳兌換碼，然後會透過排程去比對到相對應的用戶後，可以去發簡訊。接著是可以上傳兌換的結果，一樣透過排程去回報數量。其他功能有可以重發簡訊或是更新最新手機等等，畫面上也可以方便我們的服務人員確認現在的發放狀態"
-                    },
-                    {
-                        "src": "hp3.png",
-                        "text": "跟銀行合作，讓我們公司的服務人員方便上傳帳單到銀行"
-                    },
-                    {
-                        "src": "hp4.png",
-                        "text": "客服人員面對到用戶個資的時候，都需要輸入密碼驗證是公司的人才可以進行查看"
-                    }
-                ]
-            },
-            "describe": "主要是維護與開發公司內部系統、OTT服務、APP，主要是使用Laravel與MSSQL",
-            "allDescribe": {
-                "title": "簡介",
-                "text": "在公司中，主要是維護與開發公司內部系統，會配合公司行銷等部門，依照需求提供排程或是頁面上的功能，提高公司資料管理效率等等。另外有負責OTT服務，所以有製作API給外部廠商的經驗，以及有負責公司APP畫面與API維護。針對舊專案，整理共用function與部分程式重構，並且導入laravel使用service跟repository的架構，另外有針對資安上做一些盤點與優化，像是推API token，協助使用laravel sanctum"
-            },
-            "skill": {
-                "design": {
-                    "title": "設計",
-                    "list": [
-                        "--"
-                    ]
-                },
-                "development": {
-                    "title": "技術",
-                    "list": [
-                        "Laravel",
-                        "Codeigniter",
-                        "JavaScript",
-                        "MySQL",
-                        "MSSQL",
-                        "Vagrant",
-                        "Docker"
-                    ]
-                }
-            }
-        },
         "SurveyLaravel": {
             "id": "10",
             "param": "SurveyLaravel",
