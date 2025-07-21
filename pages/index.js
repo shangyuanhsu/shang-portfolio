@@ -49,7 +49,7 @@ export default function Home({ locale, t }) {
           <p>{t.skills.list}</p>
         </section> */}
 
-        <section>
+        {/* <section>
           <Title txt={t.skills.skill.title} />
           {t.skills.skill.list.map((item, index) => (
             <div key={index} className={styles.skillBox}>
@@ -57,7 +57,7 @@ export default function Home({ locale, t }) {
               <p>{item.text}</p>
             </div>
           ))}
-        </section>
+        </section> */}
 
         <section>
           <Title txt={t.workExperience.title} />

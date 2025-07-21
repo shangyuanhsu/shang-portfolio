@@ -3,10 +3,11 @@ import { ThemeContext } from "../contexts/ThemeContext";
 import Footer from "./Footer";
 import Header from "./Header";
 
-const Layuot = ({ children }) => {
+const Layout = ({ children }) => {
     const theme = useContext(ThemeContext);
+
     return (
-        <div className={theme.type === true ? "lightContent" : "darkContent"}>
+        <div className={theme.type === true ? "lightContent" : "darkContent"} id="root">
             <Header />
             <main>
                 {children}
@@ -16,4 +17,4 @@ const Layuot = ({ children }) => {
     );
 }
 
-export default Layuot;
+export default Layout;
